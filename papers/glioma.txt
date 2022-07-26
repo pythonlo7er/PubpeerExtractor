@@ -1,0 +1,333 @@
+10.1158/0008-5472.can-20-4010	Implications of enhancer transcription and eRNAs in cancer
+10.1093/jnci/83.11.775	Tumor Cell Invasion Inhibited by TIMP
+10.1128/mcb.00398-08	Embryonic stem cell-specific miR302-367 cluster: human gene structure and functional characterization of its core promoter
+10.1002/pmic.200700054	"Unique proteomic features induced by a potential antiglioma agent, Nordy (dl?nordihydroguaiaretic acid), in glioma cells"
+10.1158/2159-8290.cd-15-1263	The master neural transcription factor BRN2 is an androgen receptor–suppressed driver of neuroendocrine differentiation in prostate cancer
+10.1158/0008-5472.can-13-0530	Adipocyte-derived fibroblasts promote tumor progression and contribute to the desmoplastic reaction in breast cancer
+10.1158/1538-7445.am2012-3343	Upregulation of SOX5 perturbs human glioma cell proliferation and is associated with proneural glioblastoma
+10.1111/j.1755-148x.2011.00849.x	Melanoma cell invasiveness is regulated by miR?211 suppression of the BRN2 transcription factor
+10.1038/349038a0	A gene from the region of the human X inactivation centre is expressed exclusively from the inactive X chromosome
+10.1016/j.biocel.2015.08.011	Let-7g induces granulosa cell apoptosis by targeting MAP3K1 in the porcine ovary
+10.5214/ans.0972-7531.1017207	CXCL12/CXCR4 promotes motility and proliferation of glioma cells
+10.3389/fmolb.2020.607740	CRISPR-Cas13a targeting the Enhancer RNA-SMAD7e inhibits bladder cancer development both in vitro and in vivo
+10.1016/j.bbrc.2006.02.113	"Nordy, a synthetic lipoxygenase inhibitor, inhibits the expression of formylpeptide receptor and induces differentiation of malignant glioma cells"
+10.18632/oncotarget.7003	MiR-129 triggers autophagic flux by regulating a novel Notch-1/E2F7/Beclin-1 axis to impair the viability of human malignant glioma cells
+10.3892/or.2017.5944	miR-133b acts as a tumor suppressor and negatively regulates ATP citrate lyase via PPAR? in gastric cancer
+10.1038/cddis.2017.225	Human cancer-associated fibroblasts enhance glutathione levels and antagonize drug-induced prostate cancer cell death
+10.1038/s41598-022-04869-w	Targeting of non-coding RNAs encoded by novel MYC enhancers inhibits the proliferation of human hepatic carcinoma cells in vitro
+10.1016/j.cub.2007.01.024	"HEDGEHOG-GLI1 signaling regulates human glioma growth, cancer stem cell self-renewal, and tumorigenicity"
+10.1186/1471-2407-13-478	Decreased miR-106a inhibits glioma cell glucose uptake and proliferation by targeting SLC2A3 in GBM
+10.5137/1019-5149.jtn.26122-19.1	Inhibition of the invasion of human glioblastoma U87 cell line by ruxolitinib: a molecular player of miR-17 and miR-20a regulating JAK/STAT pathway
+10.1158/0008-5472.can-13-3710	MicroRNA100 inhibits self-renewal of breast cancer stem–like cells and breast tumor development
+10.1093/cercor/bhs252	"POU-III transcription factors (Brn1, Brn2, and Oct6) influence neurogenesis, molecular identity, and migratory destination of upper-layer cells of the cerebral cortex"
+10.1016/j.canlet.2008.09.034	CXCR4 mediates the proliferation of glioblastoma progenitor cells
+10.1227/01.neu.0000290905.53685.a2	Preferential expression of chemokine receptor CXCR4 by highly malignant human gliomas and its association with poor patient survival
+10.1371/journal.pone.0043452	Colorectal cancer migration and invasion initiated by microRNA-106a
+10.1016/j.ydbio.2008.11.016	miR-17 family miRNAs are expressed during early mammalian development and regulate stem cell differentiation
+10.1016/j.molimm.2019.10.026	LncRNA NEAT1 sponges miR-214 to regulate M2 macrophage polarization by regulation of B7-H3 in multiple myeloma
+10.1128/mcb.00359-08	Oct4/Sox2-regulated miR-302 targets cyclin D1 in human embryonic stem cells
+10.3389/fgene.2021.633812	Immunogenomic Profiling Demonstrate AC003092. 1 as an Immune-Related eRNA in Glioblastoma Multiforme
+10.1111/cpr.13202	Enhancer RNA: What we know and what we can achieve
+10.1007/s12035-015-9140-3	Prognostic role of microRNA-21 expression in brain tumors: a meta-analysis
+10.1128/mcb.00242-06	Mir-17-5p regulates breast cancer cell proliferation by inhibiting translation of AIB1 mRNA
+10.3892/ijo.2017.3840	Upregulation of miR-146a by YY1 depletion correlates with delayed progression of prostate cancer
+10.1158/0008-5472.can-15-2402	A three-dimensional organoid culture system derived from human glioblastomas recapitulates the hypoxic gradients and cancer stem cell heterogeneity of tumors found in vivo
+10.1016/j.oraloncology.2011.11.019	Association between the rs2910164 polymorphism in pre-mir-146a and oral carcinoma progression
+10.3791/1475	Overexpression of Tissue Inhibitor of Metalloproteinases-2 by Retroviral-mediated Gene Transfer &lt;em&gt;in Vivo&lt;/em&gt; Inhibits Tumor Growth and Invasion
+10.1182/blood-2011-07-370122	Genome-wide miRNA profiling of mantle cell lymphoma reveals a distinct subgroup with poor prognosis
+10.1111/pin.12042	"POU domain transcription factor BRN 2 is crucial for expression of ASCL 1, ND 1 and neuroendocrine marker molecules and cell growth in small cell lung cancer"
+10.1038/nrc.2016.73	The biology and function of fibroblasts in cancer
+10.1158/0008-5472.can-10-4117	A developmental taxonomy of glioblastoma defined and maintained by MicroRNAs
+10.1038/s41576-019-0158-7	"The biogenesis, biology and characterization of circular RNAs"
+10.1038/nn983	Sonic hedgehog regulates adult neural progenitor proliferation in vitro and in vivo
+10.1080/15476286.2020.1712895	"Enhancer RNAs in cancer: regulation, mechanisms and therapeutic potential"
+10.1080/21541264.2019.1695492	Transcriptional control by enhancers and enhancer RNAs
+10.1002/ar.22626	MiR?16?1 plays a role in reducing migration and invasion of glioma cells
+10.1016/j.wneu.2018.09.155	"MicroRNA-20a regulates glioma cell proliferation, invasion, and apoptosis by targeting CUGBP Elav-like family member 2"
+10.1007/978-1-4939-4035-6	An integrated analysis of enhancer RNAs in glioma and a validation of their prognostic values
+10.1261/rna.1162708	Mir-302 reprograms human skin cancer cells into a pluripotent ES-cell-like state
+10.1186/s40064-015-1597-z	MAP3K1-targeting therapeutic artificial miRNA suppresses the growth and invasion of breast cancer in vivo and in vitro
+10.1038/bjc.2012.442	Cytotoxic effect of disulfiram/copper on human glioblastoma cell lines and ALDH-positive cancer-stem-like cells
+10.1038/nature03702	MicroRNA expression profiles classify human cancers
+10.1002/jcb.27770	Long noncoding RNA HOTAIRM1 inhibits cell progression by regulating miR?17?5p/PTEN axis in gastric cancer
+10.1016/j.ydbio.2007.08.007	Transgenic over-expression of the microRNA miR-17-92 cluster promotes proliferation and inhibits differentiation of lung epithelial progenitor cells
+10.1007/s12253-018-00570-4	High expression of long noncoding RNA HOTAIRM1 is associated with the proliferation and migration in pancreatic ductal adenocarcinoma
+10.1016/j.yexcr.2019.111597	miR-133b suppresses colorectal cancer cell stemness and chemoresistance by targeting methyltransferase DOT1L
+10.1016/j.lfs.2019.116918	FAL1: A critical oncogenic long non-coding RNA in human cancers
+10.1007/s13277-014-2969-7	Long noncoding RNA MALAT1 associates with the malignant status and poor prognosis in glioma
+10.1016/j.cell.2008.04.001	miRiad roles for the miR-17-92 cluster in development and disease
+10.3390/cancers14081978	Enhancer RNAs (eRNAs) in Cancer: The Jacks of All Trades
+10.1016/j.bbamcr.2014.07.008	Protease Nexin-1 affects the migration and invasion of C6 glioma cells through the regulation of urokinase Plasminogen Activator and Matrix Metalloproteinase-9/2
+10.1111/j.1750-3639.2010.00405.x	KIAA0495/PDAM is frequently downregulated in oligodendroglial tumors and its knockdown by siRNA induces cisplatin resistance in glioma cells
+10.1158/0008-5472.can-09-0781	Intravital imaging reveals transient changes in pigment production and Brn2 expression during metastatic melanoma dissemination
+10.1158/0008-5472.can-13-3456	The cancer stem cell marker aldehyde dehydrogenase is required to maintain a drug-tolerant tumor cell subpopulation
+10.1038/s41594-018-0102-0	RNAs interact with BRD4 to promote enhanced chromatin engagement and transcription activation
+10.1038/s41467-017-01117-y	Mutant p53 shapes the enhancer landscape of cancer cells in response to chronic immune signaling
+10.1093/neuonc/noq070	Aldehyde dehydrogenase 1 positive glioblastoma cells show brain tumor stem cell capacity
+10.1016/j.devcel.2009.02.007	The miR-430/427/302 family controls mesendodermal fate specification via species-specific target selection
+10.1038/onc.2016.436	Cooperation among heterogeneous prostate cancer cells in the bone metastatic niche
+10.1158/0008-5472.can-07-3240	The roles of human sucrose nonfermenting protein 2 homologue in the tumor-promoting functions of Rsf-1
+10.18632/aging.103157	Exosomal miRNA-34 from cancer-associated fibroblasts inhibits growth and invasion of gastric cancer cells in vitro and in vivo
+10.1016/j.critrevonc.2007.06.004	Neural stem cell self-renewal
+10.1126/science.aad3346	Transcription factor trapping by RNA in gene regulatory elements
+10.1158/0008-5472.can-14-3307	Cytomegalovirus immediate-early proteins promote stemness properties in glioblastoma
+10.1016/j.ccr.2012.08.024	Hotspot mutations in H3F3A and IDH1 define distinct epigenetic and biological subgroups of glioblastoma
+10.3389/fcell.2021.792185	Non-Coding RNAs and Brain Tumors: Insights Into Their Roles in Apoptosis
+10.18632/oncotarget.3254	A novel role for microRNA-129-5p in inhibiting ovarian cancer cell proliferation and survival via direct suppression of transcriptional co-activators YAP and TAZ
+10.1038/onc.2009.9	Sox5 can suppress platelet-derived growth factor B-induced glioma development in Ink4a-deficient mice through induction of acute cellular senescence
+10.1158/1078-0432.ccr-09-2329	CXCL12 (SDF-1)/CXCR4 pathway in cancer
+10.3389/fimmu.2018.00473	Long non-coding RNA HOXA transcript antisense RNA myeloid-specific 1–HOXA1 axis downregulates the immunosuppressive activity of myeloid-derived suppressor cells in lung cancer
+10.18632/oncotarget.6920	Aldehyde dehydrogenase 1A1 in stem cells and cancer
+10.1371/journal.pone.0124870	Serpine2/PN-1 is required for proliferative expansion of pre-neoplastic lesions and malignant progression to medulloblastoma
+10.1073/pnas.0510565103	A microRNA expression signature of human solid tumors defines cancer gene targets
+10.1111/jcmm.12892	HOTAIRM 1 as a potential biomarker for diagnosis of colorectal cancer functions the role in the tumour suppressor
+10.1007/s12015-010-9175-9	"An inhibitor of arachidonate 5-lipoxygenase, Nordy, induces differentiation and inhibits self-renewal of glioma stem-like cells"
+10.1111/cns.13197	Combined elevation of TRIB2 and MAP3K1 indicates poor prognosis and chemoresistance to temozolomide in glioblastoma
+10.3892/mmr.2014.2583	MicroRNA-16 suppresses epithelial-mesenchymal transition?related gene expression in human glioma
+10.1080/15384047.2017.1373216	The down-regulation of miR-129 in breast cancer and its effect on breast cancer migration and motility
+10.1038/s41419-018-0715-6	MiR-133b targets Sox9 to control pathogenesis and metastasis of breast cancer
+10.1074/jbc.m114.596866	"Silencing of long noncoding RNA MALAT1 by miR-101 and miR-217 inhibits proliferation, migration, and invasion of esophageal squamous cell carcinoma cells"
+10.1371/journal.pone.0002557	Aberrant expression of oncogenic and tumor-suppressive microRNAs in cervical cancer is required for cancer cell growth
+10.1093/nar/gkw966	Reciprocal regulation of chromatin state and architecture by HOTAIRM1 contributes to temporal collinear HOXA gene activation
+10.1038/onc.2014.75	Oncogenic miR-20a and miR-106a enhance the invasiveness of human glioma stem cells by directly targeting TIMP-2
+10.1007/s00268-010-0951-0	Expression and function of a large non-coding RNA gene XIST in human cancer
+10.1158/0008-5472.can-09-3268	The miR-17-92 microRNA polycistron regulates MLL leukemia stem cell potential by modulating p21 expression
+10.1016/j.bbrc.2018.06.173	MicroRNA-124-3p represses cell growth and cell motility by targeting EphA2 in glioma
+10.1002/ijc.33132	Multi?omics analysis reveals the functional transcription and potential translation of enhancers
+10.1016/j.cca.2008.10.021	Detection of miR-106a in gastric carcinoma and its clinical significance
+10.1016/j.biopha.2016.12.100	"Potential mechanisms of microRNA-129-5p in inhibiting cell processes including viability, proliferation, migration and invasiveness of glioblastoma cells U87 through targeting FNDC3B"
+10.1016/j.bbrc.2018.04.011	Oncogenic MicroRNA-20a is downregulated by the HIF-1?/c-MYC pathway in IDH1 R132H-mutant glioma
+10.1093/carcin/bgn195	A functional polymorphism in the miR-146a gene is associated with the risk for hepatocellular carcinoma
+10.1007/s12282-010-0234-5	Role of stromal myofibroblasts in invasive breast cancer: stromal expression of alpha-smooth muscle actin correlates with worse clinical outcome
+10.1111/cas.12351	Micro RNA?16 inhibits glioma cell growth and invasion through suppression of BCL 2 and the nuclear factor??B1/MMP 9 signaling pathway
+10.1007/s11010-015-2382-6	MiR-129-2 functions as a tumor suppressor in glioma cells by targeting HMGB1 and is down-regulated by DNA methylation
+10.1016/j.cell.2013.01.034	Xist RNA is a potent suppressor of hematologic cancer in mice
+10.3233/cbm-170205	A 4-miRNAs signature predicts survival in glioblastoma multiforme patients
+10.1038/emboj.2010.137	NANOG regulates glioma stem cells and is essential in vivo acting in a cross?functional network with GLI1 and p53
+10.1016/j.biopha.2018.12.057	"miR-133b inhibits cell proliferation, migration and invasion of esophageal squamous cell carcinoma by targeting EGFR"
+10.1016/s1090-798x(08)70018-3	microRNAs exhibit high frequency genomic alterations in human cancer
+10.4149/neo_2018_170510n337	miR-133b acts as a tumor suppressor and negatively regulates EMP2 in glioma
+10.3892/or.2016.5098	Let-7g-5p inhibits epithelial-mesenchymal transition consistent with reduction of glioma stem cell phenotypes by targeting VSIG4 in glioblastoma
+10.1016/j.nbd.2013.05.011	A long non-coding RNA signature in glioblastoma multiforme predicts survival
+10.1038/s41467-019-12543-5	Transcriptional landscape and clinical utility of enhancer RNAs for eRNA-targeted therapy in cancer
+10.1007/s13277-015-4579-4	"Overexpression of hSNF2H in glioma promotes cell proliferation, invasion, and chemoresistance through its interaction with Rsf-1"
+10.1186/s12885-018-4461-z	Galectin-3 activates TLR4/NF-?B signaling to promote lung adenocarcinoma cell proliferation through activating lncRNA-NEAT1 expression
+10.1242/jcs.126367	Loss of Git2 induces epithelial–mesenchymal transition by miR146a-Cnot6L-controlled expression of Zeb1
+2009533	Inhibition of tumor invasion of smooth muscle cell layers by recombinant human metalloproteinase inhibitor
+14522905	Identification of a cancer stem cell in human brain tumors
+14744438	"MicroRNAs: genomics, biogenesis, mechanism, and function"
+15466194	"Isolation and characterization of tumorigenic, stem-like neural precursors from human glioblastoma"
+15549107	Identification of human brain tumour initiating cells
+16327766	Opinion: the origin of the cancer stem cell: current controversies and new insights
+16697959	Tumor stem cells derived from glioblastomas cultured in bFGF and EGF more closely mirror the phenotype and genotype of primary tumors than do serum-cultured cell lines
+16862193	Invasive growth: a MET-driven genetic programme for cancer and stem cells
+17011485	The diverse functions of microRNAs in animal development and disease
+17051156	Glioma stem cells promote radioresistance by preferential activation of the DNA damage response
+17210792	Bcl2L12 inhibits post-mitochondrial apoptosis signaling in glioblastoma
+17486121	Genome-wide transcription and the implications for genomic organization
+17571346	Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project
+17597072	MicroRNA (miRNA) transcriptome of mouse retina and identification of a sensory organ-specific miRNA cluster
+17646646	Quantitative analysis of EGFRvIII cellular signaling networks reveals a combinatorial therapeutic strategy for glioblastoma
+17872411	Coactivation of receptor tyrosine kinases affects the response of tumor cells to targeted therapies
+17998256	Serum GFAP is a diagnostic marker for glioblastoma multiforme
+18577219	miR-124 and miR-137 inhibit proliferation of glioblastoma multiforme cells and induce differentiation of brain tumor stem cells
+18719380	microRNAs and cancer: an overview
+18765229	MIR-451 and Imatinib mesylate inhibit tumor growth of Glioblastoma stem cells
+18772890	Comprehensive genomic characterization defines human glioblastoma genes and core pathways
+19010882	Targeting of the Bmi-1 oncogene/stem cell renewal factor by microRNA-128 inhibits glioma proliferation and self-renewal
+19075262	Phase II study of erlotinib plus temozolomide during and after radiation therapy in patients with newly diagnosed glioblastoma multiforme or gliosarcoma
+19081070	Hedgehog signaling in development and cancer
+19088037	Cancer stem cell analysis and clinical outcome in patients with glioblastoma multiforme
+19108713	Nestin and CD133: valuable stem cell-specific markers for determining clinical outcome of glioma patients
+19165214	MicroRNAs: key regulators of stem cells
+19350631	Limits of CD133 as a marker of glioma self-renewing cells
+19477429	Hypoxia-inducible factors regulate tumorigenic capacity of glioma stem cells
+19497285	Glioma stem cell lines expanded in adherent culture have tumor-specific phenotypes and are suitable for chemical and genetic screens
+19671863	CD133+ glioblastoma stem-like cells are radiosensitive with a defective DNA damage response compared with established cell lines
+19948152	MiR-125b is critical for the suppression of human U251 glioma stem cell proliferation
+20103663	Immunobiological characterization of cancer stem cells isolated from glioblastoma patients
+20190569	microRNA-34a is tumor suppressive in brain tumors and glioma stem cells
+20801091	Brain tumor stem cells: the cancer stem cell hypothesis writ large
+21360794	MicroRNA-183 family expression in hair cell development and requirement of microRNAs for hair cell maintenance and survival
+21549325	Eyes wide open: a critical review of sphere-formation as an assay for stem cells
+21550244	Long noncoding RNAs and human disease
+21628493	Heterogeneity maintenance in glioblastoma: a social network
+21720384	The miR 302-367 cluster drastically affects self-renewal and infiltration properties of glioma-initiating cells through CXCR4 repression and consequent disruption of the SHH-GLI-NANOG network
+21857646	CAMTA1 is a novel tumour suppressor regulated by miR-9/9* in glioblastoma stem cells
+21874051	Pro-neural miR-128 is a glioma tumor suppressor that targets mitogenic kinases
+21879257	MicroRNA-125b-2 confers human glioblastoma stem cells resistance to temozolomide through the mitochondrial pathway of apoptosis
+22094949	Non-coding RNAs in human disease
+22241976	A mathematical methodology for determining the temporal order of pathway alterations arising during gliomagenesis
+22360855	"Expression of miR-125b in the new, highly invasive glioma stem cell and progenitor cell line SU3"
+22558405	Genome-wide profiling identified a set of miRNAs that are differentially expressed in glioblastoma stem cells and normal neural stem cells
+22568628	MicroRNA-34a suppresses cell proliferation and induces apoptosis in U87 glioma stem cells
+22869051	"NEDD9, a novel target of miR-145, increases the invasiveness of glioblastoma"
+22921398	Targeting glioma stem cells by functional inhibition of a prosurvival oncomiR-138 in malignant gliomas
+22982144	Methylation mediated silencing of miR-23b expression and its role in glioma stem cells
+22999819	miR-125b regulates the proliferation of glioblastoma stem cells by targeting E2F2
+23063412	Glioblastoma cancer stem cells: role of the microenvironment and therapeutic targeting
+23070366	Regulation of mammalian cell differentiation by long non-coding RNAs
+23307328	Oncogenic effects of miR-10b in glioblastoma stem cells
+23354685	MiR-182 and miR-203 induce mesenchymal to epithelial transition and self-sufficiency of growth signals via repressing SNAI2 in prostate cells
+23376635	miR-143 inhibits glycolysis and depletes stemness of glioblastoma stem-like cells
+23390502	MicroRNA-145 is downregulated in glial tumors and regulates glioma cell migration by targeting connective tissue growth factor
+23397238	MicroRNA-153 is tumor suppressive in glioblastoma stem cells
+23533157	Tumorigenic potential of miR-18A* in glioma initiating cells requires NOTCH-1 signaling
+23536558	ATF3 suppresses metastasis of bladder cancer by regulating gelsolin-mediated remodeling of the actin cytoskeleton
+23554660	MiR-181b suppresses proliferation of and reduces chemoresistance to temozolomide in U87 glioma stem cells
+23636127	miR-124 inhibits STAT3 signaling to enhance T cell-mediated immune clearance of glioma
+23695554	The MET oncogene in glioblastoma stem cells: implications as a diagnostic marker and a therapeutic target
+23714687	MicroRNA-137 is downregulated in glioblastoma and inhibits the stemness of glioma stem cells by targeting RTVP-1
+23725405	Long non-coding RNA: a new player in cancer
+23733246	MicroRNA-128 coordinately targets Polycomb Repressor Complexes in glioma stem cells
+23814265	MiR-145 functions as a tumor-suppressive RNA by targeting Sox9 and adducin 3 in human glioma cells
+23857508	miR-125b inhibitor may enhance the invasion-prevention activity of temozolomide in glioblastoma stem cells by targeting PIAS3
+23950210	"MicroRNA-218 inhibits glioma invasion, migration, proliferation, and cancer stem-like cell self-renewal by targeting the polycomb group gene Bmi1"
+24048065	Tumour heterogeneity and cancer cell plasticity
+24076665	Coordinate activation of Shh and PI3K signaling in PTEN-deficient glioblastoma: new therapeutic opportunities
+24154962	Glioblastomas are composed of genetically divergent clones with distinct tumourigenic potential and variable stem cell-associated phenotypes
+24174328	Spherical nucleic acid nanoparticle conjugates as an RNAi-based therapy for glioblastoma
+24197864	Hypoxia upregulates aldehyde dehydrogenase isoform 1 (ALDH1) expression and induces functional stem cell characteristics in human glioblastoma cells
+24202294	"Clinicopathological significance of expression of nestin, a neural stem/progenitor cell marker, in human glioma tissue"
+24332177	Epigenetic regulation of the miR142-3p/interleukin-6 circuit in glioblastoma
+24356103	miR-125b promotes cell proliferation by directly targeting Lin28 in glioblastoma stem cells with low expression levels of miR-125b
+24425048	microRNA-148a is a prognostic oncomiR that targets MIG6 and BIM to regulate EGFR and apoptosis in glioblastoma
+24440911	"Multiple receptor tyrosine kinases converge on microRNA-134 to control KRAS, STAT5B, and glioblastoma"
+24464870	mir-300 promotes self-renewal and inhibits the differentiation of glioma stem-like cells
+24519663	Regulatory roles of miRNA in the human neural stem cell transformation to glioma stem cells
+24643683	miR-125b inhibitor enhance the chemosensitivity of glioblastoma stem cells to temozolomide by targeting Bak1
+24651015	Genome sequencing of SHH medulloblastoma predicts genotype-related response to smoothened inhibition
+24691539	microRNA expression pattern modulates temozolomide response in GBM tumors with cancer stem cells
+24704830	Oncogenic miR-20a and miR-106a enhance the invasiveness of human glioma stem cells by directly targeting TIMP-2
+24736727	MiR-330-mediated regulation of SH3GL2 expression enhances malignant behaviors of glioblastoma stem cells by activating ERK and PI3K/AKT signaling pathways
+24747968	Two mature products of MIR-491 coordinate to suppress key cancer hallmarks in glioblastoma
+24777293	miR-145 inhibits migration and invasion of glioma stem cells by targeting ABCG2
+24805821	"Novel anti-apoptotic microRNAs 582-5p and 363 promote human glioblastoma stem cell survival via direct inhibition of caspase 3, caspase 9, and Bim"
+24865424	Lineage-specific splicing of a brain-enriched alternative exon promotes glioblastoma progression
+24944883	Tumor suppressive miRNA-34a suppresses cell proliferation and tumor growth of glioma stem cells by targeting Akt and Wnt signaling pathways
+25202981	miR-33a promotes glioma-initiating cell self-renewal via PKA and NOTCH pathways
+25218589	MiR-152 functions as a tumor suppressor in glioblastoma stem cells by targeting Krüppel-like factor 4
+25230316	miR-101 acts as a tumor suppressor by targeting Kruppel-like factor 6 in glioblastoma stem cells
+25253891	"Novel coding, translation, and gene expression of a replicating covalently closed circular RNA of 220 nt"
+25328136	DNMT-dependent suppression of microRNA regulates the induction of GBM tumor-propagating phenotype by Oct4 and Sox2
+25359397	The expression of SALL4 in patients with gliomas: high level of SALL4 expression is correlated with poor outcome
+25394756	MiR-21 up-regulation mediates glioblastoma cancer stem cells apoptosis and proliferation by targeting FASLG
+25578780	Knockdown of long non-coding RNA XIST exerts tumor-suppressive functions in human glioblastoma stem cells by up-regulating miR-152
+25627976	miR340 suppresses the stem-like cell function of glioma-initiating cells by targeting tissue plasminogen activator
+25639612	miR-135a Inhibits Cancer Stem Cell-Driven Medulloblastoma Development by Directly Repressing Arhgef6 Expression
+25651893	Expression and Functional Role of Reprogramming-Related Long Noncoding RNA (lincRNA-ROR) in Glioma
+25736407	Pterostilbene suppressed irradiation-resistant glioma stem cells by modulating GRP78/miR-205 axis
+25838542	"miR-182 integrates apoptosis, growth, and differentiation programs in glioblastoma"
+25840690	miR-30 overexpression promotes glioma stem cells by regulating Jak/STAT3 signaling pathway
+25842978	Basal cell carcinoma preferentially arises from stem cells within hair follicle and mechanosensory niches
+25855404	Heterogeneity of epidermal growth factor receptor signalling networks in glioblastoma
+26109046	Cancer stem cells in glioblastoma
+26124081	MicroRNA-153/Nrf-2/GPx1 pathway regulates radiosensitivity and stemness of glioma stem cells via reactive oxygen species
+26231038	CRNDE affects the malignant biological characteristics of human glioma stem cells by negatively regulating miR-186
+26274999	"Increased level of H19 long noncoding RNA promotes invasion, angiogenesis, and stemness of glioblastoma cells"
+26374689	Coordination of self-renewal in glioblastoma by integration of adhesion and microRNA signaling
+26437223	"miR-135b suppresses tumorigenesis in glioblastoma stem-like cells impairing proliferation, migration and self-renewal"
+26572167	MiR-218-5p inhibits the stem cell properties and invasive ability of the A2B5?CD133? subgroup of human glioma stem cells
+26649728	Downregulation of lncRNA-MALAT1 Affects Proliferation and the Expression of Stemness Markers in Glioma Stem Cell Line SHG139S
+26755074	Epidermal growth factor receptor targeting and challenges in glioblastoma
+26898758	Epigenetic modulation of a miR-296-5p:HMGA1 axis regulates Sox2 expression and glioblastoma stem cells
+26935642	MiR-608 inhibits the migration and invasion of glioma stem cells by targeting macrophage migration inhibitory factor
+26983719	Suppressing H19 Modulates Tumorigenicity and Stemness in U251 and U87MG Glioma Cells
+27063952	Shift of microRNA profile upon orthotopic xenografting of glioblastoma spheroid cultures
+27148537	Cancer Stem Cell Hierarchy in Glioblastoma Multiforme
+27157931	The 2016 World Health Organization Classification of Tumors of the Central Nervous System: a summary
+27166258	MiR-146b-5p overexpression attenuates stemness and radioresistance of glioma stem cells by targeting HuR/lincRNA-p21/?-catenin pathway
+27264189	The Long Non-coding RNA HIF1A-AS2 Facilitates the Maintenance of Mesenchymal Glioblastoma Stem-like Cells in Hypoxic Niches
+27277755	Magnetofection based on superparamagnetic iron oxide nanoparticle-mediated low lncRNA HOTAIR expression decreases the proliferation and invasion of glioma stem cells
+27338789	Down-expression of miR-154 suppresses tumourigenesis in CD133(+) glioblastoma stem cells
+27432080	Differential long non?coding RNA and mRNA expression in differentiated human glioblastoma stem cells
+27471565	Magnetofection Based on Superparamagnetic Iron Oxide Nanoparticles Weakens Glioma Stem Cell Proliferation and Invasion by Mediating High Expression of MicroRNA-374a
+27484906	MicroRNA-203 As a Stemness Inhibitor of Glioblastoma Stem Cells
+27494902	MiR-146a-5p inhibits cell proliferation and cell cycle progression in NSCLC cell lines by targeting CCND1 and CCND2
+27517625	CMV70-3P miRNA contributes to the CMV mediated glioma stemness and represents a target for glioma experimental therapy
+27520092	Let-7b inhibits the malignant behavior of glioma cells and glioma stem-like cells via downregulation of E2F2
+27556696	Knockdown of NEAT1 restrained the malignant progression of glioma stem cells by activating microRNA let-7e
+27705931	miR128-1 inhibits the growth of glioblastoma multiforme and glioma stem-like cells via targeting BMI1 and E2F3
+27801803	miR-92a-3p Exerts Various Effects in Glioma and Glioma Stem-Like Cells Specifically Targeting CDH1/?-Catenin and Notch-1/Akt Signaling Pathways
+27878295	Silencing of the long non-coding RNA NEAT1 suppresses glioma stem-like properties through modulation of the miR-107/CDK6 pathway
+27922002	Targeting the Notch-regulated non-coding RNA TUG1 for glioma treatment
+28031556	Advances in the molecular genetics of gliomas - implications for classification and therapy
+28040710	REST represses miR-124 and miR-203 to regulate distinct oncogenic properties of glioblastoma stem cells
+28070829	"Functional analysis of KIF20A, a potential immunotherapeutic target for glioma"
+28153089	Genome Editing Reveals Glioblastoma Addiction to MicroRNA-10b
+28212562	Overexpression of miR-29a reduces the oncogenic properties of glioblastoma stem cells by downregulating Quaking gene isoform 6
+28332226	MiR-223/PAX6 Axis Regulates Glioblastoma Stem Cell Proliferation and the Chemo Resistance to TMZ via Regulating PI3K/Akt Pathway
+28358371	Cell-based therapy using miR-302-367 expressing cells represses glioblastoma growth
+28423669	"The novel long non-coding RNA TALNEC2, regulates tumor cell growth and the stemness and radiation response of glioma stem cells"
+28445981	MiR-148a increases glioma cell migration and invasion by downregulating GADD45A in human gliomas with IDH1 R132H mutations
+28502302	[Overexpressed miRNA-134b inhibits proliferation and invasion of CD133(+) U87 glioma stem cells]
+28535010	MicroRNA?141 inhibits the self?renewal of glioblastoma stem cells via Jagged1
+28599471	miR-200b inhibits CD133(+) glioma cells by targeting the AKT pathway
+28628119	"Differential expression of miR16 in glioblastoma and glioblastoma stem cells: their correlation with proliferation, differentiation, metastasis and prognosis"
+28651608	Linc00152 promotes malignant progression of glioma stem cells by regulating miR-103a-3p/FEZF1/CDC25A pathway
+28666797	GAS5 suppresses malignancy of human glioma stem cells via a miR-196a-5p/FOXO1 feedback loop
+28791656	EGFR as a Target for Glioblastoma Treatment: An Unfulfilled Promise
+29016934	microRNA-7 upregulates death receptor 5 and primes resistant brain tumors to caspase-mediated apoptosis
+29132362	Knockdown of SOX2OT inhibits the malignant biological behaviors of glioblastoma stem cells via up-regulating the expression of miR-194-5p and miR-122
+29202181	Targeted nanocomplex carrying siRNA against MALAT1 sensitizes glioblastoma to temozolomide
+29632473	Endothelial Monocyte-Activating Polypeptide-II Induces BNIP3-Mediated Mitophagy to Enhance Temozolomide Cytotoxicity of Glioma Stem Cells via Down-Regulating MiR-24-3p
+29720725	Inhibition of GPR158 by microRNA-449a suppresses neural lineage of glioma stem/progenitor cells and correlates with higher glioma grades
+29808528	LncRNA MALAT1/miR-129 axis promotes glioma tumorigenesis by targeting SOX2
+30509101	"Novel lncRNA-ZNF281 regulates cell growth, stemness and invasion of glioma stem-like U251s cells"
+30564876	Knockdown of long non-coding RNA PCAT1 in glioma stem cells promotes radiation sensitivity
+30586549	MiR-7-5p suppresses stemness and enhances temozolomide sensitivity of drug-resistant glioblastoma cells by targeting Yin Yang 1
+30654687	MIR93 (microRNA -93) regulates tumorigenicity and therapy response of glioblastoma by targeting autophagy
+30867410	The lncRNA TP73-AS1 is linked to aggressiveness in glioblastoma and promotes temozolomide resistance in glioblastoma cancer stem cells
+30875963	MicroRNA-451 Inhibits Migration of Glioblastoma while Making It More Susceptible to Conventional Therapy
+30890698	Zika virus infection induces MiR34c expression in glioblastoma stem cells: new perspectives for brain tumor treatments
+30949502	"Long Noncoding RNA ASB16-AS1 Promotes Proliferation, Migration, and Invasion in Glioma Cells"
+31101062	Glioma stem cells-derived exosomal miR-26a promotes angiogenesis of microvessel endothelial cells in glioma
+31116627	HMGA1 negatively regulates NUMB expression at transcriptional and post transcriptional level in glioblastoma stem cells
+31119182	Identification of Potential Biomarkers in Glioblastoma through Bioinformatic Analysis and Evaluating Their Prognostic Value
+31263273	Smoothened stimulation by membrane sterols drives Hedgehog pathway activity
+31369952	"The interplay of Patched, Smoothened and cholesterol in Hedgehog signaling"
+31440081	MicroRNA 145 enhances chemosensitivity of glioblastoma stem cells to demethoxycurcumin
+31482267	MicroRNA-29a inhibits glioblastoma stem cells and tumor growth by regulating the PDGF pathway
+31511040	circPTN sponges miR-145-5p/miR-330-5p to promote proliferation and stemness in glioma
+31534499	The miR-26a/AP-2?/Nanog signaling axis mediates stem cell self-renewal and temozolomide resistance in glioma
+31599491	TGF-?-activated lncRNA LINC00115 is a critical regulator of glioma stem-like cell tumorigenicity
+31675094	CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2012-2016
+31691127	Long Noncoding RNA HOTAIRM1 Maintains Tumorigenicity of Glioblastoma Stem-Like Cells Through Regulation of HOX Gene Expression
+31891366	Interfering with long non-coding RNA MIR22HG processing inhibits glioblastoma progression through suppression of Wnt/?-catenin signalling
+32009256	miR-150-5p suppresses the stem cell-like characteristics of glioma cells by targeting the Wnt/?-catenin signaling pathway
+32062354	MiR-18a-downregulated RORA inhibits the proliferation and tumorigenesis of glioma using the TNF-?-mediated NF-?B signaling pathway
+32067282	MicroRNA-30a suppresses self-renewal and tumorigenicity of glioma stem cells by blocking the NT5E-dependent Akt signaling pathway
+32094299	A Sox2:miR-486-5p Axis Regulates Survival of GBM Cells by Inhibiting Tumor Suppressor Networks
+32117213	Extracellular Vesicle lncRNA Metastasis-Associated Lung Adenocarcinoma Transcript 1 Released From Glioma Stem Cells Modulates the Inflammatory Response of Microglia After Lipopolysaccharide Stimulation Through Regulating miR-129-5p/High Mobility Group Box-1 Protein Axis
+32252802	Cullin-7 (CUL7) is overexpressed in glioma cells and promotes tumorigenesis via NF-?B activation
+32258388	A Glioblastoma Genomics Primer for Clinicians
+32361246	Radiation-induced extracellular vesicle (EV) release of miR-603 promotes IGF1-mediated stem cell state in glioblastomas
+32443824	Mir-370-3p Impairs Glioblastoma Stem-Like Cell Malignancy Regulating a Complex Interplay between HMGA2/HIF1A and the Oncogenic Long Non-Coding RNA (lncRNA) NEAT1
+32459347	Deregulated expression of the imprinted DLK1-DIO3 region in glioblastoma stemlike cells: tumor suppressor role of lncRNA MEG3
+32555332	"Profiling cytotoxic microRNAs in pediatric and adult glioblastoma cells by high-content screening, identification, and validation of miR-1300"
+32632040	MiR-146b-5p suppresses the malignancy of GSC/MSC fusion cells by targeting SMARCA5
+32725633	Phospholipase D1 inhibition sensitizes glioblastoma to temozolomide and suppresses its tumorigenicity
+32894165	The U2AF2 /circRNA ARF1/miR-342-3p/ISL2 feedback loop regulates angiogenesis in glioma stem cells
+32905473	"miR-425-5p, a SOX2 target, regulates the expression of FOXJ3 and RAB31 and promotes the survival of GSCs"
+32945237	MicroRNA miR-100 Decreases Glioblastoma Growth by Targeting SMARCA5 and ErbB3 in Tumor-Initiating Cells
+32973101	A Novel miR-146a-POU3F2/SMARCA5 Pathway Regulates Stemness and Therapeutic Response in Glioblastoma
+33057597	LncRNA NEAT1 promotes malignant phenotypes and TMZ resistance in glioblastoma stem cells by regulating let-7g-5p/MAP3K1 axis
+33093452	miR-504 modulates the stemness and mesenchymal transition of glioma stem cells and their interaction with microglia via delivery by extracellular vesicles
+33158815	Hypoxic Glioma Stem Cell-Derived Exosomes Containing Linc01060 Promote Progression of Glioma by Regulating the MZF1/c-Myc/HIF1? Axis
+33187334	"Analysis of miR-9-5p, miR-124-3p, miR-21-5p, miR-138-5p, and miR-1-3p in Glioblastoma Cell Lines and Extracellular Vesicles"
+33408780	Extracellular vesicles derived from hypoxic glioma stem-like cells confer temozolomide resistance on glioblastoma by delivering miR-30b-3p
+33446260	A novel protein encoded by circular SMO RNA is essential for Hedgehog signaling activation and glioblastoma tumorigenicity
+33664496	Circular RNA-encoded oncogenic E-cadherin variant promotes glioblastoma tumorigenicity through activation of EGFR-STAT3 signalling
+33694060	The LncRNA RP11-279C4.1 Enhances the Malignant Behaviour of Glioma Cells and Glioma Stem-Like Cells by Regulating the miR-1273g-3p/CBX3 Axis
+33762015	Role of glioblastoma stem cells in cancer therapeutic resistance: a perspective on antineoplastic agents from natural sources and chemical derivatives
+33789359	Long noncoding RNA SNHG9 facilitates growth of glioma stem-like cells via miR-326/SOX9 axis
+33816233	HOTAIRM1 Promotes Malignant Progression of Transformed Fibroblasts in Glioma Stem-Like Cells Remodeled Microenvironment via Regulating miR-133b-3p/TGF? Axis
+33858489	The SRSF1/circATP5B/miR-185-5p/HOXB5 feedback loop regulates the proliferation of glioma stem cells via the IL6-mediated JAK2/STAT3 signaling pathway
+34017077	FMR1/circCHAF1A/miR-211-5p/HOXC8 feedback loop regulates proliferation and tumorigenesis via MDM2-dependent p53 signaling in GSCs
+34036375	lncRNA TUG1 inhibits the cancer stem cell?like properties of temozolomide?resistant glioma cells by interacting with EZH2
+34134771	Exosomal SNHG16 secreted by CSCs promotes glioma development via TLR7
+34168916	circMELK promotes glioblastoma multiforme cell tumorigenesis through the miR-593/EphB2 axis
+34233294	Glioma stem cell-derived exosomal miR-944 reduces glioma growth and angiogenesis by inhibiting AKT/ERK signaling
+34512162	miR-139/PDE2A-Notch1 feedback circuit represses stemness of gliomas by inhibiting Wnt/?-catenin signaling
+34689806	Bioinformatics analysis reveals a stem cell-expressed circ-Serpine2-mediated miRNA-mRNA regulatory subnetwork in the malignant progression of glioma
+34805277	A Pan-Cancer Landscape of HOX-Related lncRNAs and Their Association With Prognosis and Tumor Microenvironment
