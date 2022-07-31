@@ -41,7 +41,7 @@ class PubPeerExtractor:
     def writeToFile(self,fileName : str = "Results")-> None:
         try:
             with io.open(f"{fileName}.txt","a",encoding="utf-8") as file:
-                for doi,html in self.bsInstanceDict.items():
+                for doi,html in self._bsInstanceDict.items():
                     elementList = html.find_all(class_='feedback')
                     if elementList:
                         line = "\t".join([doi,elementList[0].get_text()])
